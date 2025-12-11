@@ -43,12 +43,9 @@ https://github.com/Arslanex/Doctor-Strange-Filter/assets/44752389/c2e8a8bb-c874-
 </p> -->
 
 ***
-<h3 align="center"> Enes ARSLAN </h3>
-<p align="center">
-<a href="https://www.instagram.com/_enes.arslan_/?next=%2F">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-<a href="https://www.linkedin.com/in/enes-arslan-/">
+<h3 align="center"> Yerra Rahul </h3>
+<a href="https://www.linkedin.com/in/yerrarahul/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://github.com/Arslanex">
+<a href="https://github.com/YerraRahul23">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/ >
 </p>
