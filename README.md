@@ -1,4 +1,4 @@
-![Doctor Strange Banner](https://upload.wikimedia.org/wikipedia/en/8/8a/Doctor_Strange_infinity_war_poster.jpg)
+![Doctor Strange Banner](https://cdn.marvel.com/content/2x/009drs-com_cut_mob_01.jpg)
 
 
 # Doctor Strange Filter with Python
