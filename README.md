@@ -1,4 +1,5 @@
-![Banne]('https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.marvel.com%2Fcharacters%2Fdoctor-strange-stephen-strange%2Fin-comics%2Fprofile&ved=0CBYQjRxqFwoTCLihv7j5tJEDFQAAAAAdAAAAABAj&opi=89978449')
+![Banner](https://upload.wikimedia.org/wikipedia/en/8/8a/Doctor_Strange_infinity_war_poster.jpg)
+
 
 # Doctor Strange Filter with Python
 
