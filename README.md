@@ -1,7 +1,7 @@
 ![Doctor Strange Banner](https://cdn.marvel.com/content/2x/009drs-com_cut_mob_01.jpg)
 
 
-# Doctor Strange Filter with Python
+# Doctor Strange Magic Hand Effect with Python
 
 This project is a test of my skills in computer vision. The project was created using Mediapipe and OpenCV libraries and Python program language. As the name suggests, I tried to replicate the magic circles that appear on the palms of the popular MARVEL hero Dr. Strange when he casts a spell.
 
