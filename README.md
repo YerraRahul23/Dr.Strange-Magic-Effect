@@ -44,6 +44,7 @@ https://github.com/Arslanex/Doctor-Strange-Filter/assets/44752389/c2e8a8bb-c874-
 
 ***
 <h3 align="center"> Yerra Rahul </h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/yerrarahul/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://github.com/YerraRahul23">
