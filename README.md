@@ -24,7 +24,7 @@ Of course, this was a very simple explanation. There are many things to know abo
 
 ## Setup
 
-1. Clone this repostiory : `git clone https://github.com/Arslanex/Instagram-Mapping`
+1. Clone this repostiory : `git clone https://github.com/YerraRahul23/Dr.Strange-Magic-Effect`
 2. Instal requirements : `pip install -r requirements.txt`
 3. Run main.py script : `python main.py`
 
@@ -36,11 +36,11 @@ Of course, this was a very simple explanation. There are many things to know abo
   <img src="https://user-images.githubusercontent.com/44752389/221366735-d25b821a-c143-4cf5-bf80-eb7da7644f1c.jpg" width="250" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 
 https://github.com/Arslanex/Doctor-Strange-Filter/assets/44752389/c2e8a8bb-c874-4dd5-8721-8ce3ca51d8b8
 
-</p>
+</p> -->
 
 ***
 <h3 align="center"> Enes ARSLAN </h3>
